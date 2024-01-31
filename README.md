@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9603nix
+- 👋 Hi, I’m Mike machage
 - 👀 I’m interested in software and cyber security
 - 🌱 I’m currently learning in ALX Africa and Cisco Network Academy
 - 💞️ I’m looking to collaborate on software/application development and cyber security
