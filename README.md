@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike machage
+- 👋 Hi, I’m Mike Machage
 - 👀 I’m interested in software engineer postulant
 - 🌱 I’m currently learning in ALX Africa and Harvard University via EdX
 - 💞️ I’m looking to collaborate on software/application development 
