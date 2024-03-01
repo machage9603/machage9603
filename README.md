@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mike Machage
-- 👀 I’m interested in software engineer postulant
-- 🌱 I’m currently learning in ALX Africa and Harvard University via EdX
-- 💞️ I’m looking to collaborate on software/application development 
-- 📫 You can reach me on any of my socials, business strictly mikemachage@gmail.com
+👋 Hi, I’m Mike Machage
+💻I am currently upskilling in C and Python.
+📚keeping up with tech while learning in ALX Africa and Harvard University via EdX
+📩 mikemachage@gmail.com
+😂"Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing."
 
 <!---
 9603nix/9603nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
