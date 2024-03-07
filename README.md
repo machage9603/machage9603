@@ -1,6 +1,6 @@
 👋 Hi, I’m Mike Machage
-💻I am currently upskilling in C and Python.
-📚keeping up with tech while learning in ALX Africa and Harvard University via EdX
+💻I am currently upskilling in C and Python & Java.
+📚Keeping up with tech with ALX Africa and Harvard University via EdX
 📩 mikemachage@gmail.com
 😂"Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing."
 
