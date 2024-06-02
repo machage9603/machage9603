@@ -1,4 +1,4 @@
-Hi 👋 My name is Mike Machage
+Hi 👋 I am Mike Machage
 =============================
 
 Software Engineer
