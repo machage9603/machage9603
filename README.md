@@ -5,7 +5,7 @@ I am Mike Machage, a Software Engineer.
 ----------------------------
 
 * 🌍  I'm based in Nairobi, Kenya.
-* ✉️  You can contact me at [mikemachage@gmail.com](mailto:mikemachage@gmail.com)
+* ✉️  [Feel free to Email me](mailto:mikemachage@gmail.com)
 * 🚀  I'm currently studying to become a full-stack engineer.
 * 🤝  I'm open to collaborating on interesting projects.
 * 🖥️  I do technical writing [here](https://medium.com/@machage_) sometimes.
