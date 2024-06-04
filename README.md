@@ -1,7 +1,7 @@
-Hi 👋 I am Mike Machage
+Hi 👋 
 =============================
 
-Software Engineer
+I am Mike Machage, a Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Nairobi, Kenya
