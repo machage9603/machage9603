@@ -5,11 +5,10 @@ I am Mike Machage, a Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my blog at [medium](https://medium.com/@machage_)
 * ✉️  You can contact me at [mikemachage@gmail.com](mailto:mikemachage@gmail.com)
-* 🚀  I'm currently working towards being a full-stack engineer.
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a superpower don't tell anyone, they won't believe you.
+* 🚀  I'm currently studying to become a full-stack engineer.
+* 🤝  I'm open to collaborating on interesting projects.
+* 🖥️  I do technical writing [here](https://medium.com/@machage_) sometimes.
 
 
 ### Tech Stack
