@@ -7,7 +7,7 @@ I am Mike Machage, a Software Engineer.
 * 🌍  I'm based in Nairobi, Kenya.
 * 🚀  I'm currently building @Darasani-Hub
 * 🤝  I'm open to working/collaborating on interesting projects.
-* 🖥️  I occasionally write technical articles [here](https://medium.com/@machage_) 
+* 🖥️  I occasionally scribe technical articles [here](https://medium.com/@machage_) 
 * 🌍  [Let's connect here](https://t.co/mCBE3uTf2K)
 
 
