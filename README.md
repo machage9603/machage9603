@@ -10,6 +10,8 @@ I am Ser Mike Machage, a Software Engineer, First of His Name.
 * 🌍  [Let's forge alliances here](https://t.co/mCBE3uTf2K)
 * ☕  Without the elixir of coffee, I’d be ensnared in an infinite loop of slumber.
 
+🛡️GOTED⚔️ 
+
 
 ### My Arsenal:
 
