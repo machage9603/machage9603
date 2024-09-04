@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://mikemachage.tech" target="_blank">
-        <img src="https:https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdjeTc5b2d3MnJvaXFua3U0bW15cWJvNzZjMjhuYW00dGE0aGM0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mOWLBeH5XoXecgSEcp/giphy.gif" width="120" height="120" alt="Description of the image">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm01YjNydnpiNG83dWphejg1aXZ4NDJzdTluczA3Y2YyeG13ZHdqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="120" height="120" alt="Description of the image">
     </a>
 </p>
 
