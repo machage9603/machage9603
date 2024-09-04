@@ -38,14 +38,15 @@
 
 
 
-<p align="center">
+<p align="center"><br>
   <a href="https://github.com/machage9603?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=machage9603&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@machage9603's github-readme-stats">
   </a>
   <a href="https://github.com/machage9603?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=machage9603&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@machage's github-readme-streak-stats">
-  </a></a>
+  </a>
 </p>
+</br>
 
 <!--
 | Project | Description | Built with |
