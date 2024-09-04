@@ -126,12 +126,8 @@
 
 
     
-###### @2024 [Mike Machage](http://mikemachage.tech). All rights reserved
+<p align="centre" @2024 [Mike Machage](http://mikemachage.tech). All rights reserved></p>
 
-</div>
-
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 
 
 
