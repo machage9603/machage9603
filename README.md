@@ -126,7 +126,7 @@
 
 
     
-<p align="centre">@2024 Mike Machage. All rights reserved</p>
+<p align="centre">2024 Mike Machage. All rights reserved</p>
 
 
 
