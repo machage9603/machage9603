@@ -13,7 +13,7 @@
 </p>
 
 
-<h1 style="text-align: center;">Let's Connect</h1>
+<h1 align="center">Let's Connect</h1>
 
 <p align="center">
 <a href="https://mikemachage.tech" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
