@@ -8,14 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20AM%20IKE%20MACHAGE,%20A%20SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
-Greetings👋 
-=============================
 
-I am Ser Mike Machage, a Software Engineer, First of His Name.
+
+I am Mike Machage, a Software Engineer, First of His Name.
 --------------------------------------------------------------
 
 * 🚀  I am currently forging @Darasani-Hub, a beacon of inclusive & accessible education for the realm.
