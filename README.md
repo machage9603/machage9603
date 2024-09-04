@@ -55,34 +55,34 @@
 
 ####
 <br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+<h1 align="center">Hobbies</h1>
  <p align="center">
-  <a href="https://jrohit.com.np/" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
   </a>
   
@@ -98,13 +98,6 @@
 
 
 
-<div align="center">
-
-<img height="30" alt="Get Schwifty!" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
-<br />
-
-
-<div align="center">
     
 ###### @2024 [Mike Machage](http://mikemachage.tech). All rights reserved
 
