@@ -126,7 +126,8 @@
 
 
     
-<p align="centre">2024 Mike Machage. All rights reserved</p>
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 
 
 
