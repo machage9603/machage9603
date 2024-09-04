@@ -41,14 +41,25 @@
 
 
 
----
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machage9603&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 
 
 
----
+
+
+
+
+
+
+
+
+
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 <p align="center">
   <a href="https://github.com/machage9603?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=machage9603&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
@@ -59,9 +70,17 @@
 </p>
 
 
-####
-<br clear="both">
-<h1 align="center">Hobbies</h1>
+
+
+
+
+
+
+
+
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
+<p align="center">Hobbies</p>
  <p align="center">
   <a href="https://mikemachage.tech" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
