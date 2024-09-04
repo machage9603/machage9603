@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
-        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdwZHk5YzUwNHU3bDUyNGdoZTRmdTdqajFzdmVqMXo3bG83a3NuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aR5EUJaJYInpf9czKn/giphy.gif" width="120" height="120" alt="Description of the image">
     </a>
 </p>
 
