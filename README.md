@@ -30,8 +30,8 @@
 
 
 
-<p align="center">TECH STACK</p>
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
+<p align="center">TECH STACK</p> 
 
 
 <p align="center">
