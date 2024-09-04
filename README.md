@@ -126,7 +126,7 @@
 
 
     
-<p align="centre" @2024 [Mike Machage](http://mikemachage.tech). All rights reserved></p>
+<p align="centre">@2024 [Mike Machage](http://mikemachage.tech). All rights reserved</p>
 
 
 
