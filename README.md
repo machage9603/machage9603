@@ -1,14 +1,6 @@
 <p align="center">
-    <a href="http://mikemachage.tech" target="_blank">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1M2dhYWdhNGN1YXk2d2E2Nm9rcHhzY3p0dnprOHM5cDR3YjM0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jR02MShfuA0Pw83pZs/giphy.gif" width="250" style="250" alt="Description of the image">
-    </a>
-</p>
-
-
-
-<p align="center">
   <a href="https://github.com/machage9603/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20AM%20MIKE%20MACHAGE;FIRST%20OF%20HIS%20NAME;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);GRAPHIC%20DESIGNER&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20AM%20MIKE%20MACHAGE;FIRST%20OF%20HIS%20NAME;SOFTWARE%20ENGINEER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);GRAPHIC%20DESIGNER&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -17,20 +9,6 @@
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 
-<p align="center">LET'S CONNECT</p>
-
-
-
-<p align="center">
-<a href="https://mikemachage.tech" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/sermachage" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/mikemachage" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-</p>
-
-
-
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 <p align="center">TECH STACK</p> 
 
 
@@ -48,18 +26,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machage9603&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 <p align="center">
