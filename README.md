@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/machage9603/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20AM%20MIKE%20MACHAGE;FIRST%20OF%20HIS%20NAME;SOFTWARE%20ENGINEER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);GRAPHIC%20DESIGNER&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20AM%20MIKE%20MACHAGE;FIRST%20OF%20HIS%20NAME;SOFTWARE%20ENGINEER%20;OPEN%20SOURCE%20(AI)&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
